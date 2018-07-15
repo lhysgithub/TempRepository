@@ -1,0 +1,503 @@
+count:   0 SSD: 0.10 DM: 0.500
+count:   0 SSD: 0.11 DM: 0.500
+count:   0 SSD: 0.12 DM: 0.500
+count:   0 SSD: 0.13 DM: 0.500
+count:   0 SSD: 0.14 DM: 0.500
+count:   0 SSD: 0.10 DM: 0.450
+count:   0 SSD: 0.11 DM: 0.450
+count:   0 SSD: 0.12 DM: 0.450
+count:   0 SSD: 0.13 DM: 0.450
+count:   0 SSD: 0.14 DM: 0.450
+count:   0 SSD: 0.10 DM: 0.400
+count:   0 SSD: 0.11 DM: 0.400
+count:   0 SSD: 0.12 DM: 0.400
+count:   0 SSD: 0.13 DM: 0.400
+count:   0 SSD: 0.14 DM: 0.400
+count:   0 SSD: 0.10 DM: 0.350
+count:   0 SSD: 0.11 DM: 0.350
+count:   0 SSD: 0.12 DM: 0.350
+count:   0 SSD: 0.13 DM: 0.350
+count:   0 SSD: 0.14 DM: 0.350
+count:   2 SSD: 0.10 DM: 0.300
+count:   3 SSD: 0.10 DM: 0.300
+count:   5 SSD: 0.10 DM: 0.300
+count:   6 SSD: 0.10 DM: 0.300
+count:   9 SSD: 0.10 DM: 0.300
+count:  14 SSD: 0.10 DM: 0.300
+count:  18 SSD: 0.10 DM: 0.300
+count:  28 SSD: 0.10 DM: 0.300
+count:  41 SSD: 0.10 DM: 0.300
+count:  49 SSD: 0.10 DM: 0.300
+Step 00000: PBF: -84.1156 UseingTime: 40.3031 PBL2Distance: 81.8974 QueryTimes: 1550 P: 95
+count:  44 SSD: 0.10 DM: 0.300
+Step 00001: PBF: -82.6173 UseingTime: 2.7647 PBL2Distance: 81.6838 QueryTimes: 1650 P: 95
+count:  45 SSD: 0.10 DM: 0.300
+Step 00002: PBF: -82.7245 UseingTime: 2.8620 PBL2Distance: 81.5454 QueryTimes: 1750 P: 95
+count:  47 SSD: 0.10 DM: 0.300
+Step 00003: PBF: -82.2399 UseingTime: 2.9127 PBL2Distance: 81.4571 QueryTimes: 1850 P: 95
+count:  48 SSD: 0.10 DM: 0.300
+Step 00004: PBF: -82.0428 UseingTime: 2.9707 PBL2Distance: 81.4267 QueryTimes: 1950 P: 95
+count:  48 SSD: 0.10 DM: 0.300
+Step 00005: PBF: -81.9077 UseingTime: 2.9060 PBL2Distance: 81.3440 QueryTimes: 2050 P: 95
+Step 00006: PBF: -81.6809 UseingTime: 1.7134 PBL2Distance: 81.3087 QueryTimes: 2100 P: 95
+Step 00007: PBF: -81.5639 UseingTime: 1.5512 PBL2Distance: 81.2945 QueryTimes: 2150 P: 95
+Step 00008: PBF: -81.4931 UseingTime: 1.5312 PBL2Distance: 81.2796 QueryTimes: 2200 P: 95
+Close up CEV: 0.310 CDV: 0.103
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.300 CDV: 0.100
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.290 CDV: 0.097
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.280 CDV: 0.093
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.270 CDV: 0.090
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.260 CDV: 0.087
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.250 CDV: 0.083
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.240 CDV: 0.080
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.230 CDV: 0.077
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.220 CDV: 0.073
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.210 CDV: 0.070
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.200 CDV: 0.067
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.190 CDV: 0.063
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.180 CDV: 0.060
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.170 CDV: 0.057
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.160 CDV: 0.053
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.150 CDV: 0.050
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.140 CDV: 0.047
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.130 CDV: 0.043
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.120 CDV: 0.040
+count:   6 SSD: 0.10 DM: 0.300
+count:  34 SSD: 0.10 DM: 0.300
+Step 00009: PBF: -74.0414 UseingTime: 29.8745 PBL2Distance: 72.7366 QueryTimes: 3300 P: 95
+Step 00010: PBF: -73.4541 UseingTime: 1.5637 PBL2Distance: 72.7263 QueryTimes: 3350 P: 95
+Step 00011: PBF: -73.1567 UseingTime: 1.5303 PBL2Distance: 72.7235 QueryTimes: 3400 P: 95
+Step 00012: PBF: -73.1021 UseingTime: 1.5061 PBL2Distance: 72.7062 QueryTimes: 3450 P: 95
+Close up CEV: 0.130 CDV: 0.043
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.120 CDV: 0.040
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.110 CDV: 0.037
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.100 CDV: 0.033
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.090 CDV: 0.030
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.080 CDV: 0.027
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.070 CDV: 0.023
+count:   3 SSD: 0.10 DM: 0.300
+count:  49 SSD: 0.10 DM: 0.300
+Step 00013: PBF: -69.7604 UseingTime: 12.1064 PBL2Distance: 68.0383 QueryTimes: 3900 P: 95
+Step 00014: PBF: -69.2125 UseingTime: 1.5447 PBL2Distance: 68.0203 QueryTimes: 3950 P: 95
+Step 00015: PBF: -68.7731 UseingTime: 1.5297 PBL2Distance: 68.0215 QueryTimes: 4000 P: 95
+Step 00016: PBF: -68.6848 UseingTime: 1.6234 PBL2Distance: 68.0172 QueryTimes: 4050 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00017: PBF: -68.6393 UseingTime: 1.7206 PBL2Distance: 68.0291 QueryTimes: 4100 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00018: PBF: -68.5914 UseingTime: 1.7522 PBL2Distance: 68.0374 QueryTimes: 4150 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00019: PBF: -68.6214 UseingTime: 1.6593 PBL2Distance: 68.0539 QueryTimes: 4200 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00020: PBF: -68.6290 UseingTime: 1.7491 PBL2Distance: 68.0924 QueryTimes: 4250 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00021: PBF: -68.5270 UseingTime: 1.5763 PBL2Distance: 68.1218 QueryTimes: 4300 P: 95
+Step 00022: PBF: -68.4895 UseingTime: 1.6329 PBL2Distance: 68.1400 QueryTimes: 4350 P: 95
+Close up CEV: 0.080 CDV: 0.027
+count:  10 SSD: 0.10 DM: 0.300
+count:  42 SSD: 0.10 DM: 0.300
+Step 00023: PBF: -64.0219 UseingTime: 4.2601 PBL2Distance: 62.7454 QueryTimes: 4500 P: 95
+count:  48 SSD: 0.10 DM: 0.300
+Step 00024: PBF: -63.6353 UseingTime: 2.8341 PBL2Distance: 62.7187 QueryTimes: 4600 P: 95
+Step 00025: PBF: -63.4092 UseingTime: 1.5785 PBL2Distance: 62.7210 QueryTimes: 4650 P: 95
+Step 00026: PBF: -63.2111 UseingTime: 1.6053 PBL2Distance: 62.7103 QueryTimes: 4700 P: 95
+Step 00027: PBF: -63.1350 UseingTime: 1.4763 PBL2Distance: 62.7160 QueryTimes: 4750 P: 95
+Close up CEV: 0.090 CDV: 0.030
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.080 CDV: 0.027
+count:   2 SSD: 0.10 DM: 0.300
+count:  49 SSD: 0.10 DM: 0.300
+Step 00028: PBF: -59.6776 UseingTime: 5.5306 PBL2Distance: 58.1716 QueryTimes: 4950 P: 95
+Step 00029: PBF: -59.2214 UseingTime: 1.5706 PBL2Distance: 58.1796 QueryTimes: 5000 P: 95
+Step 00030: PBF: -58.9185 UseingTime: 1.5481 PBL2Distance: 58.1755 QueryTimes: 5050 P: 95
+Step 00031: PBF: -58.7946 UseingTime: 1.5436 PBL2Distance: 58.1724 QueryTimes: 5100 P: 95
+Step 00032: PBF: -58.7288 UseingTime: 1.5469 PBL2Distance: 58.1713 QueryTimes: 5150 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00033: PBF: -58.7333 UseingTime: 1.5311 PBL2Distance: 58.1716 QueryTimes: 5200 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00034: PBF: -58.7431 UseingTime: 1.7400 PBL2Distance: 58.1863 QueryTimes: 5250 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00035: PBF: -58.6935 UseingTime: 1.5481 PBL2Distance: 58.2368 QueryTimes: 5300 P: 95
+Close up CEV: 0.090 CDV: 0.030
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.080 CDV: 0.027
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.070 CDV: 0.023
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.060 CDV: 0.020
+count:   1 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.050 CDV: 0.017
+count:   3 SSD: 0.10 DM: 0.300
+count:  23 SSD: 0.10 DM: 0.300
+Step 00036: PBF: -56.8158 UseingTime: 9.6324 PBL2Distance: 55.3798 QueryTimes: 5650 P: 95
+Step 00037: PBF: -56.1926 UseingTime: 1.4595 PBL2Distance: 55.3860 QueryTimes: 5700 P: 95
+Step 00038: PBF: -56.0290 UseingTime: 1.5157 PBL2Distance: 55.3926 QueryTimes: 5750 P: 95
+Step 00039: PBF: -55.9007 UseingTime: 1.5141 PBL2Distance: 55.3762 QueryTimes: 5800 P: 95
+Step 00040: PBF: -55.8342 UseingTime: 1.5282 PBL2Distance: 55.3851 QueryTimes: 5850 P: 95
+Close up CEV: 0.060 CDV: 0.020
+count:  12 SSD: 0.10 DM: 0.300
+count:  39 SSD: 0.10 DM: 0.300
+Step 00041: PBF: -53.8069 UseingTime: 4.1936 PBL2Distance: 52.0710 QueryTimes: 6000 P: 95
+Step 00042: PBF: -53.4871 UseingTime: 1.5094 PBL2Distance: 52.0626 QueryTimes: 6050 P: 95
+Step 00043: PBF: -53.1502 UseingTime: 1.5423 PBL2Distance: 52.0692 QueryTimes: 6100 P: 95
+Step 00044: PBF: -52.9405 UseingTime: 1.5204 PBL2Distance: 52.0657 QueryTimes: 6150 P: 95
+Step 00045: PBF: -52.8564 UseingTime: 1.5144 PBL2Distance: 52.0725 QueryTimes: 6200 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00046: PBF: -52.8450 UseingTime: 1.5537 PBL2Distance: 52.0685 QueryTimes: 6250 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00047: PBF: -52.7854 UseingTime: 1.5321 PBL2Distance: 52.0978 QueryTimes: 6300 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00048: PBF: -52.8573 UseingTime: 1.4697 PBL2Distance: 52.1213 QueryTimes: 6350 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00049: PBF: -52.8169 UseingTime: 1.6397 PBL2Distance: 52.1263 QueryTimes: 6400 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00050: PBF: -52.7689 UseingTime: 1.6493 PBL2Distance: 52.1396 QueryTimes: 6450 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00051: PBF: -52.7387 UseingTime: 1.5485 PBL2Distance: 52.1722 QueryTimes: 6500 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00052: PBF: -52.7396 UseingTime: 1.5564 PBL2Distance: 52.2182 QueryTimes: 6550 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00053: PBF: -52.5744 UseingTime: 1.5473 PBL2Distance: 52.2222 QueryTimes: 6600 P: 95
+Step 00054: PBF: -52.5455 UseingTime: 1.4938 PBL2Distance: 52.2132 QueryTimes: 6650 P: 95
+Close up CEV: 0.070 CDV: 0.023
+count:  21 SSD: 0.10 DM: 0.300
+Step 00055: PBF: -50.0155 UseingTime: 2.8744 PBL2Distance: 48.6031 QueryTimes: 6750 P: 95
+Step 00056: PBF: -49.5559 UseingTime: 1.5202 PBL2Distance: 48.6055 QueryTimes: 6800 P: 95
+Step 00057: PBF: -49.3081 UseingTime: 1.4620 PBL2Distance: 48.6050 QueryTimes: 6850 P: 95
+Step 00058: PBF: -49.1414 UseingTime: 1.5084 PBL2Distance: 48.6089 QueryTimes: 6900 P: 95
+Step 00059: PBF: -49.0830 UseingTime: 1.4609 PBL2Distance: 48.6016 QueryTimes: 6950 P: 95
+Close up CEV: 0.080 CDV: 0.027
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.070 CDV: 0.023
+count:   2 SSD: 0.10 DM: 0.300
+count:  47 SSD: 0.10 DM: 0.300
+Step 00060: PBF: -47.4714 UseingTime: 5.5413 PBL2Distance: 45.4911 QueryTimes: 7150 P: 95
+Step 00061: PBF: -47.0476 UseingTime: 1.5942 PBL2Distance: 45.4944 QueryTimes: 7200 P: 95
+Step 00062: PBF: -46.8381 UseingTime: 1.5403 PBL2Distance: 45.5006 QueryTimes: 7250 P: 95
+Step 00063: PBF: -46.6505 UseingTime: 1.7258 PBL2Distance: 45.4960 QueryTimes: 7300 P: 95
+Step 00064: PBF: -46.4728 UseingTime: 1.6335 PBL2Distance: 45.4967 QueryTimes: 7350 P: 95
+Step 00065: PBF: -46.3870 UseingTime: 1.4643 PBL2Distance: 45.4980 QueryTimes: 7400 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00066: PBF: -46.2859 UseingTime: 1.4621 PBL2Distance: 45.5115 QueryTimes: 7450 P: 95
+Step 00067: PBF: -46.1659 UseingTime: 1.4641 PBL2Distance: 45.5104 QueryTimes: 7500 P: 95
+Step 00068: PBF: -46.0485 UseingTime: 1.4629 PBL2Distance: 45.5145 QueryTimes: 7550 P: 95
+Step 00069: PBF: -46.0106 UseingTime: 1.4612 PBL2Distance: 45.5148 QueryTimes: 7600 P: 95
+Close up CEV: 0.080 CDV: 0.027
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.070 CDV: 0.023
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.060 CDV: 0.020
+count:   1 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.050 CDV: 0.017
+count:  21 SSD: 0.10 DM: 0.300
+Step 00070: PBF: -45.6303 UseingTime: 6.9139 PBL2Distance: 43.3576 QueryTimes: 7850 P: 95
+Step 00071: PBF: -45.2195 UseingTime: 1.5255 PBL2Distance: 43.3588 QueryTimes: 7900 P: 95
+Step 00072: PBF: -44.9911 UseingTime: 1.6064 PBL2Distance: 43.3573 QueryTimes: 7950 P: 95
+Step 00073: PBF: -44.8200 UseingTime: 1.7369 PBL2Distance: 43.3613 QueryTimes: 8000 P: 95
+Step 00074: PBF: -44.6318 UseingTime: 1.5785 PBL2Distance: 43.3673 QueryTimes: 8050 P: 95
+Step 00075: PBF: -44.5112 UseingTime: 1.6212 PBL2Distance: 43.3678 QueryTimes: 8100 P: 95
+Step 00076: PBF: -44.4692 UseingTime: 1.4642 PBL2Distance: 43.3687 QueryTimes: 8150 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00077: PBF: -44.3413 UseingTime: 1.5830 PBL2Distance: 43.3752 QueryTimes: 8200 P: 95
+Step 00078: PBF: -44.2003 UseingTime: 1.4621 PBL2Distance: 43.3762 QueryTimes: 8250 P: 95
+Step 00079: PBF: -44.0754 UseingTime: 1.4842 PBL2Distance: 43.3788 QueryTimes: 8300 P: 95
+Step 00080: PBF: -44.0149 UseingTime: 1.5495 PBL2Distance: 43.3803 QueryTimes: 8350 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00081: PBF: -44.0544 UseingTime: 1.4826 PBL2Distance: 43.3826 QueryTimes: 8400 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00082: PBF: -44.0327 UseingTime: 1.5464 PBL2Distance: 43.4020 QueryTimes: 8450 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00083: PBF: -44.0918 UseingTime: 1.5228 PBL2Distance: 43.4083 QueryTimes: 8500 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00084: PBF: -43.9415 UseingTime: 1.4851 PBL2Distance: 43.4179 QueryTimes: 8550 P: 95
+Step 00085: PBF: -43.9027 UseingTime: 1.4608 PBL2Distance: 43.4280 QueryTimes: 8600 P: 95
+Close up CEV: 0.060 CDV: 0.020
+count:   1 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.050 CDV: 0.017
+count:   6 SSD: 0.10 DM: 0.300
+count:  33 SSD: 0.10 DM: 0.300
+Step 00086: PBF: -43.5257 UseingTime: 5.7371 PBL2Distance: 41.3065 QueryTimes: 8800 P: 95
+count:  49 SSD: 0.10 DM: 0.300
+Step 00087: PBF: -43.1359 UseingTime: 3.0357 PBL2Distance: 41.3190 QueryTimes: 8900 P: 95
+Step 00088: PBF: -42.6762 UseingTime: 1.5916 PBL2Distance: 41.3129 QueryTimes: 8950 P: 95
+Step 00089: PBF: -42.4398 UseingTime: 1.5354 PBL2Distance: 41.3215 QueryTimes: 9000 P: 95
+Step 00090: PBF: -42.2907 UseingTime: 1.5044 PBL2Distance: 41.3312 QueryTimes: 9050 P: 95
+Step 00091: PBF: -42.2270 UseingTime: 1.5702 PBL2Distance: 41.3230 QueryTimes: 9100 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00092: PBF: -42.1578 UseingTime: 1.5211 PBL2Distance: 41.3366 QueryTimes: 9150 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00093: PBF: -42.0550 UseingTime: 1.5010 PBL2Distance: 41.3458 QueryTimes: 9200 P: 95
+Step 00094: PBF: -41.9327 UseingTime: 1.5865 PBL2Distance: 41.3448 QueryTimes: 9250 P: 95
+Step 00095: PBF: -41.8623 UseingTime: 1.5637 PBL2Distance: 41.3516 QueryTimes: 9300 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00096: PBF: -41.8724 UseingTime: 1.6402 PBL2Distance: 41.3687 QueryTimes: 9350 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00097: PBF: -41.9258 UseingTime: 1.6013 PBL2Distance: 41.3692 QueryTimes: 9400 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00098: PBF: -41.9392 UseingTime: 1.6678 PBL2Distance: 41.3760 QueryTimes: 9450 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00099: PBF: -41.8952 UseingTime: 1.6308 PBL2Distance: 41.3890 QueryTimes: 9500 P: 95
+Scaling up CEV: 0.050 CDV: 0.017
+Step 00100: PBF: -41.8942 UseingTime: 1.4619 PBL2Distance: 41.4139 QueryTimes: 9550 P: 95
+Close up CEV: 0.060 CDV: 0.020
+count:   5 SSD: 0.10 DM: 0.300
+count:  30 SSD: 0.10 DM: 0.300
+Step 00101: PBF: -41.3458 UseingTime: 3.9968 PBL2Distance: 38.9707 QueryTimes: 9700 P: 95
+count:  49 SSD: 0.10 DM: 0.300
+Step 00102: PBF: -40.5586 UseingTime: 3.0167 PBL2Distance: 38.9655 QueryTimes: 9800 P: 95
+Step 00103: PBF: -40.2009 UseingTime: 1.5407 PBL2Distance: 38.9853 QueryTimes: 9850 P: 95
+Step 00104: PBF: -39.9905 UseingTime: 1.6483 PBL2Distance: 38.9888 QueryTimes: 9900 P: 95
+Step 00105: PBF: -39.7489 UseingTime: 1.5675 PBL2Distance: 38.9846 QueryTimes: 9950 P: 95
+Step 00106: PBF: -39.7315 UseingTime: 1.5058 PBL2Distance: 38.9928 QueryTimes: 10000 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00107: PBF: -39.7889 UseingTime: 1.4593 PBL2Distance: 39.0093 QueryTimes: 10050 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00108: PBF: -39.7311 UseingTime: 1.5617 PBL2Distance: 39.0299 QueryTimes: 10100 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00109: PBF: -39.7866 UseingTime: 1.6406 PBL2Distance: 39.0479 QueryTimes: 10150 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00110: PBF: -39.7241 UseingTime: 1.6351 PBL2Distance: 39.0837 QueryTimes: 10200 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00111: PBF: -39.8124 UseingTime: 1.5374 PBL2Distance: 39.0962 QueryTimes: 10250 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00112: PBF: -39.8418 UseingTime: 1.7427 PBL2Distance: 39.1154 QueryTimes: 10300 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00113: PBF: -39.6705 UseingTime: 1.5156 PBL2Distance: 39.1461 QueryTimes: 10350 P: 95
+Step 00114: PBF: -39.6146 UseingTime: 1.5471 PBL2Distance: 39.1451 QueryTimes: 10400 P: 95
+Close up CEV: 0.070 CDV: 0.023
+count:   1 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.060 CDV: 0.020
+count:  12 SSD: 0.10 DM: 0.300
+count:  38 SSD: 0.10 DM: 0.300
+Step 00115: PBF: -39.2766 UseingTime: 5.6030 PBL2Distance: 36.9527 QueryTimes: 10600 P: 95
+Step 00116: PBF: -38.5914 UseingTime: 1.5288 PBL2Distance: 36.9437 QueryTimes: 10650 P: 95
+Step 00117: PBF: -38.3958 UseingTime: 1.5128 PBL2Distance: 36.9501 QueryTimes: 10700 P: 95
+Step 00118: PBF: -38.0455 UseingTime: 1.4951 PBL2Distance: 36.9579 QueryTimes: 10750 P: 95
+Step 00119: PBF: -37.7738 UseingTime: 1.6427 PBL2Distance: 36.9517 QueryTimes: 10800 P: 95
+Step 00120: PBF: -37.6582 UseingTime: 1.6486 PBL2Distance: 36.9570 QueryTimes: 10850 P: 95
+Step 00121: PBF: -37.5759 UseingTime: 1.6403 PBL2Distance: 36.9618 QueryTimes: 10900 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00122: PBF: -37.5401 UseingTime: 1.6019 PBL2Distance: 36.9735 QueryTimes: 10950 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00123: PBF: -37.4696 UseingTime: 1.5685 PBL2Distance: 36.9884 QueryTimes: 11000 P: 95
+Close up CEV: 0.070 CDV: 0.023
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.060 CDV: 0.020
+count:   4 SSD: 0.10 DM: 0.300
+count:  37 SSD: 0.10 DM: 0.300
+Step 00124: PBF: -37.4689 UseingTime: 5.8546 PBL2Distance: 34.9495 QueryTimes: 11200 P: 95
+Step 00125: PBF: -37.0827 UseingTime: 1.5590 PBL2Distance: 34.9572 QueryTimes: 11250 P: 95
+Step 00126: PBF: -36.5489 UseingTime: 1.5084 PBL2Distance: 34.9536 QueryTimes: 11300 P: 95
+Step 00127: PBF: -36.2551 UseingTime: 1.5608 PBL2Distance: 34.9648 QueryTimes: 11350 P: 95
+Step 00128: PBF: -36.0663 UseingTime: 1.5520 PBL2Distance: 34.9685 QueryTimes: 11400 P: 95
+Step 00129: PBF: -35.9985 UseingTime: 1.5642 PBL2Distance: 34.9760 QueryTimes: 11450 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00130: PBF: -35.8677 UseingTime: 1.5336 PBL2Distance: 34.9829 QueryTimes: 11500 P: 95
+Step 00131: PBF: -35.7649 UseingTime: 1.5823 PBL2Distance: 34.9891 QueryTimes: 11550 P: 95
+Step 00132: PBF: -35.6867 UseingTime: 1.7408 PBL2Distance: 34.9923 QueryTimes: 11600 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00133: PBF: -35.6685 UseingTime: 1.5211 PBL2Distance: 35.0069 QueryTimes: 11650 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00134: PBF: -35.5826 UseingTime: 1.5981 PBL2Distance: 35.0169 QueryTimes: 11700 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00135: PBF: -35.6346 UseingTime: 1.5489 PBL2Distance: 35.0331 QueryTimes: 11750 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00136: PBF: -35.6948 UseingTime: 1.6310 PBL2Distance: 35.0446 QueryTimes: 11800 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00137: PBF: -35.7584 UseingTime: 1.7706 PBL2Distance: 35.0977 QueryTimes: 11850 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00138: PBF: -35.6975 UseingTime: 1.5729 PBL2Distance: 35.0865 QueryTimes: 11900 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00139: PBF: -35.7369 UseingTime: 1.5342 PBL2Distance: 35.1203 QueryTimes: 11950 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00140: PBF: -35.6790 UseingTime: 1.5064 PBL2Distance: 35.1435 QueryTimes: 12000 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00141: PBF: -35.7254 UseingTime: 1.7581 PBL2Distance: 35.1826 QueryTimes: 12050 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00142: PBF: -35.7357 UseingTime: 1.5609 PBL2Distance: 35.2056 QueryTimes: 12100 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00143: PBF: -35.8473 UseingTime: 1.6713 PBL2Distance: 35.2446 QueryTimes: 12150 P: 95
+Step 00144: PBF: -35.6971 UseingTime: 1.7035 PBL2Distance: 35.2379 QueryTimes: 12200 P: 95
+Step 00145: PBF: -35.6176 UseingTime: 1.5033 PBL2Distance: 35.2276 QueryTimes: 12250 P: 95
+Close up CEV: 0.070 CDV: 0.023
+count:  13 SSD: 0.10 DM: 0.300
+Step 00146: PBF: -35.3015 UseingTime: 2.8217 PBL2Distance: 32.7990 QueryTimes: 12350 P: 95
+count:  49 SSD: 0.10 DM: 0.300
+Step 00147: PBF: -34.6275 UseingTime: 3.0189 PBL2Distance: 32.8101 QueryTimes: 12450 P: 95
+Step 00148: PBF: -34.3193 UseingTime: 1.7043 PBL2Distance: 32.8066 QueryTimes: 12500 P: 95
+Step 00149: PBF: -34.0238 UseingTime: 1.6558 PBL2Distance: 32.8180 QueryTimes: 12550 P: 95
+Step 00150: PBF: -33.7532 UseingTime: 1.7094 PBL2Distance: 32.8249 QueryTimes: 12600 P: 95
+Step 00151: PBF: -33.6659 UseingTime: 1.5473 PBL2Distance: 32.8326 QueryTimes: 12650 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00152: PBF: -33.6680 UseingTime: 1.6420 PBL2Distance: 32.8481 QueryTimes: 12700 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00153: PBF: -33.6829 UseingTime: 1.5504 PBL2Distance: 32.8714 QueryTimes: 12750 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00154: PBF: -33.8663 UseingTime: 1.5990 PBL2Distance: 32.8969 QueryTimes: 12800 P: 95
+Step 00155: PBF: -33.5717 UseingTime: 1.6279 PBL2Distance: 32.8964 QueryTimes: 12850 P: 95
+Step 00156: PBF: -33.4351 UseingTime: 1.5252 PBL2Distance: 32.9063 QueryTimes: 12900 P: 95
+Step 00157: PBF: -33.3471 UseingTime: 1.6829 PBL2Distance: 32.9037 QueryTimes: 12950 P: 95
+Close up CEV: 0.080 CDV: 0.027
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.070 CDV: 0.023
+count:   0 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.060 CDV: 0.020
+count:  16 SSD: 0.10 DM: 0.300
+Step 00158: PBF: -33.5448 UseingTime: 5.7903 PBL2Distance: 31.0755 QueryTimes: 13150 P: 95
+count:  48 SSD: 0.10 DM: 0.300
+Step 00159: PBF: -33.1464 UseingTime: 2.9380 PBL2Distance: 31.0765 QueryTimes: 13250 P: 95
+Step 00160: PBF: -32.7837 UseingTime: 1.5564 PBL2Distance: 31.0799 QueryTimes: 13300 P: 95
+Step 00161: PBF: -32.3973 UseingTime: 1.6095 PBL2Distance: 31.0884 QueryTimes: 13350 P: 95
+Step 00162: PBF: -32.2772 UseingTime: 1.4622 PBL2Distance: 31.0942 QueryTimes: 13400 P: 95
+Step 00163: PBF: -32.2023 UseingTime: 1.4630 PBL2Distance: 31.0969 QueryTimes: 13450 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00164: PBF: -32.2391 UseingTime: 1.4598 PBL2Distance: 31.1105 QueryTimes: 13500 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00165: PBF: -32.3574 UseingTime: 1.5576 PBL2Distance: 31.1123 QueryTimes: 13550 P: 95
+Step 00166: PBF: -32.1572 UseingTime: 1.6462 PBL2Distance: 31.1232 QueryTimes: 13600 P: 95
+Step 00167: PBF: -31.9608 UseingTime: 1.5356 PBL2Distance: 31.1281 QueryTimes: 13650 P: 95
+Step 00168: PBF: -31.9213 UseingTime: 1.5288 PBL2Distance: 31.1343 QueryTimes: 13700 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00169: PBF: -32.0045 UseingTime: 1.5322 PBL2Distance: 31.1432 QueryTimes: 13750 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00170: PBF: -32.0480 UseingTime: 1.5177 PBL2Distance: 31.1627 QueryTimes: 13800 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00171: PBF: -31.9709 UseingTime: 1.5062 PBL2Distance: 31.1891 QueryTimes: 13850 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00172: PBF: -32.0517 UseingTime: 1.6348 PBL2Distance: 31.2018 QueryTimes: 13900 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00173: PBF: -32.1269 UseingTime: 1.5625 PBL2Distance: 31.2110 QueryTimes: 13950 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00174: PBF: -32.0545 UseingTime: 1.5829 PBL2Distance: 31.2458 QueryTimes: 14000 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00175: PBF: -32.0724 UseingTime: 1.7660 PBL2Distance: 31.2679 QueryTimes: 14050 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00176: PBF: -32.2070 UseingTime: 1.7423 PBL2Distance: 31.2954 QueryTimes: 14100 P: 95
+Step 00177: PBF: -31.8590 UseingTime: 1.7292 PBL2Distance: 31.2968 QueryTimes: 14150 P: 95
+Step 00178: PBF: -31.8053 UseingTime: 1.5397 PBL2Distance: 31.2983 QueryTimes: 14200 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00179: PBF: -31.8398 UseingTime: 1.6268 PBL2Distance: 31.3160 QueryTimes: 14250 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00180: PBF: -31.8602 UseingTime: 1.5141 PBL2Distance: 31.3329 QueryTimes: 14300 P: 95
+Scaling up CEV: 0.060 CDV: 0.020
+Step 00181: PBF: -31.7699 UseingTime: 1.5664 PBL2Distance: 31.3516 QueryTimes: 14350 P: 95
+Close up CEV: 0.070 CDV: 0.023
+count:  10 SSD: 0.10 DM: 0.300
+count:  38 SSD: 0.10 DM: 0.300
+Step 00182: PBF: -31.5828 UseingTime: 4.4048 PBL2Distance: 29.1854 QueryTimes: 14500 P: 95
+Step 00183: PBF: -31.0821 UseingTime: 1.5192 PBL2Distance: 29.2037 QueryTimes: 14550 P: 95
+Step 00184: PBF: -30.5173 UseingTime: 1.7290 PBL2Distance: 29.2091 QueryTimes: 14600 P: 95
+Step 00185: PBF: -30.2031 UseingTime: 1.5329 PBL2Distance: 29.2235 QueryTimes: 14650 P: 95
+Step 00186: PBF: -30.1084 UseingTime: 1.6210 PBL2Distance: 29.2194 QueryTimes: 14700 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00187: PBF: -30.1296 UseingTime: 1.7230 PBL2Distance: 29.2373 QueryTimes: 14750 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00188: PBF: -30.1325 UseingTime: 1.5467 PBL2Distance: 29.2572 QueryTimes: 14800 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00189: PBF: -30.0274 UseingTime: 1.4875 PBL2Distance: 29.2652 QueryTimes: 14850 P: 95
+Step 00190: PBF: -29.9591 UseingTime: 1.4615 PBL2Distance: 29.2899 QueryTimes: 14900 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00191: PBF: -29.9822 UseingTime: 1.4620 PBL2Distance: 29.2996 QueryTimes: 14950 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00192: PBF: -30.0455 UseingTime: 1.5239 PBL2Distance: 29.3110 QueryTimes: 15000 P: 95
+Scaling up CEV: 0.070 CDV: 0.023
+Step 00193: PBF: -30.2058 UseingTime: 1.5399 PBL2Distance: 29.3496 QueryTimes: 15050 P: 95
+Step 00194: PBF: -29.9826 UseingTime: 1.6230 PBL2Distance: 29.3488 QueryTimes: 15100 P: 95
+Step 00195: PBF: -29.8825 UseingTime: 1.4544 PBL2Distance: 29.3546 QueryTimes: 15150 P: 95
+Step 00196: PBF: -29.8251 UseingTime: 1.5743 PBL2Distance: 29.3659 QueryTimes: 15200 P: 95
+Close up CEV: 0.080 CDV: 0.027
+count:  24 SSD: 0.10 DM: 0.300
+Step 00197: PBF: -29.8600 UseingTime: 3.0053 PBL2Distance: 27.0412 QueryTimes: 15300 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+count:  13 SSD: 0.10 DM: 0.300
+count:  49 SSD: 0.10 DM: 0.300
+Step 00198: PBF: -29.5024 UseingTime: 4.5725 PBL2Distance: 27.0684 QueryTimes: 15450 P: 95
+count:  49 SSD: 0.10 DM: 0.300
+Step 00199: PBF: -29.0494 UseingTime: 3.0747 PBL2Distance: 27.0730 QueryTimes: 15550 P: 95
+Step 00200: PBF: -28.6199 UseingTime: 1.6944 PBL2Distance: 27.0828 QueryTimes: 15600 P: 95
+Step 00201: PBF: -28.4154 UseingTime: 1.5396 PBL2Distance: 27.0833 QueryTimes: 15650 P: 95
+Step 00202: PBF: -28.2426 UseingTime: 1.6551 PBL2Distance: 27.0923 QueryTimes: 15700 P: 95
+Step 00203: PBF: -28.0713 UseingTime: 1.6274 PBL2Distance: 27.1011 QueryTimes: 15750 P: 95
+Step 00204: PBF: -28.0244 UseingTime: 1.5658 PBL2Distance: 27.1024 QueryTimes: 15800 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00205: PBF: -28.1122 UseingTime: 1.6172 PBL2Distance: 27.1152 QueryTimes: 15850 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00206: PBF: -28.1814 UseingTime: 1.5398 PBL2Distance: 27.1208 QueryTimes: 15900 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00207: PBF: -28.3848 UseingTime: 1.6223 PBL2Distance: 27.1604 QueryTimes: 15950 P: 95
+Step 00208: PBF: -28.0930 UseingTime: 1.5184 PBL2Distance: 27.1554 QueryTimes: 16000 P: 95
+Step 00209: PBF: -27.9489 UseingTime: 1.5343 PBL2Distance: 27.1634 QueryTimes: 16050 P: 95
+Step 00210: PBF: -27.8098 UseingTime: 1.5011 PBL2Distance: 27.1747 QueryTimes: 16100 P: 95
+Step 00211: PBF: -27.7248 UseingTime: 1.5742 PBL2Distance: 27.1733 QueryTimes: 16150 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00212: PBF: -27.7396 UseingTime: 1.5780 PBL2Distance: 27.1992 QueryTimes: 16200 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00213: PBF: -27.7883 UseingTime: 1.5138 PBL2Distance: 27.2102 QueryTimes: 16250 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00214: PBF: -27.9263 UseingTime: 1.4507 PBL2Distance: 27.2438 QueryTimes: 16300 P: 95
+Step 00215: PBF: -27.7712 UseingTime: 1.5170 PBL2Distance: 27.2434 QueryTimes: 16350 P: 95
+Step 00216: PBF: -27.6875 UseingTime: 1.5894 PBL2Distance: 27.2470 QueryTimes: 16400 P: 95
+Close up CEV: 0.090 CDV: 0.030
+count:   1 SSD: 0.10 DM: 0.300
+UnValidExist CEV: 0.080 CDV: 0.027
+count:  19 SSD: 0.10 DM: 0.300
+Step 00217: PBF: -27.8868 UseingTime: 4.1523 PBL2Distance: 25.2664 QueryTimes: 16550 P: 95
+Step 00218: PBF: -27.5537 UseingTime: 1.5630 PBL2Distance: 25.2924 QueryTimes: 16600 P: 95
+Step 00219: PBF: -27.2826 UseingTime: 1.5678 PBL2Distance: 25.2899 QueryTimes: 16650 P: 95
+Step 00220: PBF: -26.9685 UseingTime: 1.6563 PBL2Distance: 25.2889 QueryTimes: 16700 P: 95
+Step 00221: PBF: -26.7148 UseingTime: 1.5645 PBL2Distance: 25.2976 QueryTimes: 16750 P: 95
+Step 00222: PBF: -26.5980 UseingTime: 1.5318 PBL2Distance: 25.3084 QueryTimes: 16800 P: 95
+Step 00223: PBF: -26.4992 UseingTime: 1.5185 PBL2Distance: 25.3144 QueryTimes: 16850 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00224: PBF: -26.5319 UseingTime: 1.4522 PBL2Distance: 25.3226 QueryTimes: 16900 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00225: PBF: -26.7198 UseingTime: 1.4971 PBL2Distance: 25.3387 QueryTimes: 16950 P: 95
+Step 00226: PBF: -26.4996 UseingTime: 1.5220 PBL2Distance: 25.3560 QueryTimes: 17000 P: 95
+Step 00227: PBF: -26.3117 UseingTime: 1.5207 PBL2Distance: 25.3565 QueryTimes: 17050 P: 95
+Step 00228: PBF: -26.2414 UseingTime: 1.5351 PBL2Distance: 25.3603 QueryTimes: 17100 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00229: PBF: -26.3812 UseingTime: 1.5252 PBL2Distance: 25.3784 QueryTimes: 17150 P: 95
+Step 00230: PBF: -26.3659 UseingTime: 1.5371 PBL2Distance: 25.3888 QueryTimes: 17200 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00231: PBF: -26.5063 UseingTime: 1.5515 PBL2Distance: 25.4097 QueryTimes: 17250 P: 95
+Step 00232: PBF: -26.2278 UseingTime: 1.5376 PBL2Distance: 25.4140 QueryTimes: 17300 P: 95
+Step 00233: PBF: -26.0659 UseingTime: 1.5517 PBL2Distance: 25.4277 QueryTimes: 17350 P: 95
+Step 00234: PBF: -25.9923 UseingTime: 1.4990 PBL2Distance: 25.4348 QueryTimes: 17400 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00235: PBF: -26.0809 UseingTime: 1.4553 PBL2Distance: 25.4494 QueryTimes: 17450 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00236: PBF: -26.0952 UseingTime: 1.5584 PBL2Distance: 25.4762 QueryTimes: 17500 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00237: PBF: -26.2523 UseingTime: 1.5551 PBL2Distance: 25.5062 QueryTimes: 17550 P: 95
+Step 00238: PBF: -26.0959 UseingTime: 1.5142 PBL2Distance: 25.4964 QueryTimes: 17600 P: 95
+Step 00239: PBF: -26.0415 UseingTime: 1.5232 PBL2Distance: 25.5125 QueryTimes: 17650 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00240: PBF: -26.0823 UseingTime: 1.5099 PBL2Distance: 25.5272 QueryTimes: 17700 P: 95
+Scaling up CEV: 0.080 CDV: 0.027
+Step 00241: PBF: -26.1944 UseingTime: 1.4941 PBL2Distance: 25.5501 QueryTimes: 17750 P: 95
+Step 00242: PBF: -26.0511 UseingTime: 1.5166 PBL2Distance: 25.5542 QueryTimes: 17800 P: 95
+Complete BestAdvL2: 25.5542 BestAdvF: -26.0511 QueryTimes: 17800
